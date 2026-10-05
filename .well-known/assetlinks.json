@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.bookchange.app",
+      "sha256_cert_fingerprints": [
+        "A9:E6:2C:09:E3:66:14:02:E1:C9:CB:90:62:91:D6:9E:83:4A:59:E0:90:1A:B8:EA:EE:E1:3B:BA:C4:1D:79:87",
+        "66:33:B5:C5:D2:AA:AE:93:F7:12:04:DD:A4:D9:DA:37:07:4A:D8:D6:0D:27:6E:A1:97:FA:C5:4C:E1:2D:13:D2"
+      ]
+    }
+  }
+]
